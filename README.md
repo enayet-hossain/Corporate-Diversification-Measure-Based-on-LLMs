@@ -18,7 +18,7 @@ The measure is developed by:
 For the complete methodology, you can read the full paper [**here**] (https://doi.org/10.1016/j.bir.2025.08.002). 
 
 ## 📅 Coverage
-- **Period:** 1990–2023
+- **Period:** 1976–2023
 - **Firms:** Public U.S. companies filing 10-K reports.
 
 ## 📚 Citation
